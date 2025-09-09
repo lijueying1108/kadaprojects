@@ -1,14 +1,14 @@
 main:
-  - name: "Services"
+  - name: "CADE"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "VDT"
     url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "ODT"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Other"
     url: "/contact/"
     weight: 5
 
